@@ -1,0 +1,1 @@
+web: gunicorn kinomu_project.wsgi --log-file
